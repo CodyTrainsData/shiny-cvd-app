@@ -3,6 +3,9 @@ library(dplyr)
 library(randomForest)
 library(ggplot2)
 
+# Load the dataset
+combined_dataset <- readRDS("combined_dataset.rds")
+
 # Load model
 rf_model <- readRDS("rf_model.rds")
 
