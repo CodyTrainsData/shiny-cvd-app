@@ -61,14 +61,6 @@ To run the app locally:
    git clone https://github.com/CodyTrainsData/shiny-cvd-app.git
    cd shiny-cvd-app
 
-Installation:
-
-To run the app locally:
-	1.	Clone this repository:
- 
-git clone https://github.com/CodyTrainsData/shiny-cvd-app.git
-cd shiny-cvd-app
-
 	2.	Open app.R in RStudio.
 	3.	Ensure the required packages are installed:
 
